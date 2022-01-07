@@ -1,0 +1,14 @@
+body {
+  background-color: #326273;
+}
+
+#mc_embed_signup{
+  background-color: :#326273; clear:left; font:14px Helvetica,Arial,sans-serif;
+  color: #DAA520;
+}
+
+.main {
+  padding: 20px;
+  float: left;
+  width: 60%
+}
